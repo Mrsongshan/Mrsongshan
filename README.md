@@ -1,10 +1,10 @@
-<h3 align="center">Hello,I am Songshan</h3>
+<h3>Hello,I am Songshan</h3>
 
 <br>
 
-- I am a web full stack developer
-- 📫 email: **songshanliu@foxmail.com**
-- 😄 Personal hobbies: **smoking**
+- I am a developer specializing in backend technology and system architecture. I am passionate about how to build efficient, scalable, and easy to maintain software services. I enjoy the process of transforming complex business requirements into code implementations. In years of development practice, I have accumulated some project experience and always maintained learning and exploration of new technologies.
+- email: **songshanliu@foxmail.com**
+- Personal hobbies: **smoking**
 
 <br>
 
